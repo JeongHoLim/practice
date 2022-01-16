@@ -55,3 +55,5 @@ def solution(expression):
     
 
     return answer
+
+print(type(eval("1+2")))
