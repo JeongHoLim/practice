@@ -4,7 +4,6 @@
 import collections
 def solution(lines):
     answer = 0
-    
     stamp = []
     for line in lines:
         hh,mm,ss = map(float,line.split()[1].split(":"))

@@ -2,8 +2,7 @@
 # https://programmers.co.kr/learn/courses/30/lessons/67256?language=python3
 
 def solution(numbers, hand):
-    answer = ''
-    
+    answer = ''    
     phone = {1:'L',4:'L',7:'L',
             3 :'R',6 :'R',9 :'R',
             2 : 'B',5 :'B',8 :'B',0 :'B'

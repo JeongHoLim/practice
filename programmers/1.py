@@ -3,6 +3,7 @@
 
 import re
 import itertools
+
 def solution(expression):
     answer = 0
     p1 = re.compile('\d+')  
