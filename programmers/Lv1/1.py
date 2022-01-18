@@ -1,8 +1,10 @@
 # https://programmers.co.kr/learn/courses/30/lessons/92334?language=python3
+
 import collections
 
 def solution(id_list, report, k):
     answer = [0] * len(id_list)
+    
     report_dict = collections.defaultdict(list)
 
     for rep in report:
