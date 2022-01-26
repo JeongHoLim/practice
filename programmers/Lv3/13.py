@@ -1,3 +1,5 @@
+# https://programmers.co.kr/learn/courses/30/lessons/81303?language=python3#
+
 from collections import defaultdict
 def solution(n, k, cmd):
     
